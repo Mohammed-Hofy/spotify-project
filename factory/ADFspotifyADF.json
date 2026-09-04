@@ -1,0 +1,15 @@
+{
+	"name": "ADFspotifyADF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1db2f578-a1a0-4457-957b-f32b39a196e6",
+		"tenantId": "75621c44-0a88-484b-b252-97fbc9cd67a2"
+	}
+}
